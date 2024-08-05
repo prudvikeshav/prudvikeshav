@@ -1,5 +1,5 @@
 DevOps Engineer | CKA Certified | Azure Fundamentals | Open Source Enthusiast
-With 6 years of experience in DevOps, I specialize in streamlining development processes, implementing robust CI/CD pipelines, and managing cloud infrastructure. My expertise spans Kubernetes, Azure,AWS,Terraform and various open-source technologies.
+With 5 years of experience in DevOps, I specialize in streamlining development processes, implementing robust CI/CD pipelines, and managing cloud infrastructure. My expertise spans Kubernetes, Azure,AWS,Terraform and various open-source technologies.
 🛠 Skills & Certifications
 
 

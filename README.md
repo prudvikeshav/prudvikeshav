@@ -8,7 +8,7 @@
 
 - 👯 I’m also working on  [Kodekloud-terraform-tasks](https://github.com/prudvikeshav/Kodekloud-terraform-tasks.git)
 
-- 🤝 I’m also working on [Github-actions](https://github.com/prudvikeshav/Github-actions.git)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

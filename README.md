@@ -6,9 +6,7 @@
   With 5 years of hands-on experience in DevOps, I excel in optimizing development workflows, crafting resilient CI/CD pipelines, and managing diverse cloud infrastructures. My expertise includes Kubernetes, Azure, AWS, Terraform, and a wide range of open-source technologies.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prudvikeshav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 ---
 

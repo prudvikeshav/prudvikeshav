@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prudhvi Keshav</h1>
 
-<h3 align="center">Passionate DevOps Engineer | CKA Certified | Azure Fundamentals | Open Source Enthusiast</h3>
+<h3 align="center">Passionate DevOps Engineer | CKA Certified | AWS Certified Solutions Architect – Associate  | Open Source Enthusiast</h3>
 
 <p align="center">
-  With 5 years of hands-on experience in DevOps, I excel in optimizing development workflows, crafting resilient CI/CD pipelines, and managing diverse cloud infrastructures. My expertise includes Kubernetes, Azure, AWS, Terraform, and a wide range of open-source technologies.
+  With 5 years of hands-on experience in DevOps, I excel in optimizing development workflows, crafting resilient CI/CD pipelines, and managing diverse cloud infrastructures. My expertise includes Kubernetes, AWS, Terraform, and a wide range of open-source technologies.
 </p>
 
 

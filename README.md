@@ -18,11 +18,11 @@
 ### ⚙️ DevOps Highlights
 
 - 🔁 Built fully automated CI/CD pipelines using **Jenkins**, **GitHub Actions**, and **ArgoCD** — enabling blue/green and canary deployments.
-- ☸️ Deployed and managed **Kubernetes clusters on AWS EKS & GCP GKE**, supporting 200+ microservices with auto-scaling, high availability, and cost optimization.
+- ☸️ Deployed and managed **Kubernetes clusters on AWS EKS **, supporting microservices with auto-scaling, high availability, and cost optimization.
 - 🧩 Created reusable **Helm charts** for microservices, ensuring 95% consistency across environments and reducing deployment failures.
-- 💾 Designed robust backup and recovery strategies using **Velero** and **Restic** for stateful workloads.
+- 💾 Designed robust backup and recovery strategies using **Velero** for stateful workloads.
 - ⚙️ Automated infrastructure provisioning using **Terraform (IaC)**, improving provisioning speed by 60%.
-- 🔐 Integrated **HashiCorp Vault** for secrets management, enhancing security posture in multi-environment deployments.
+- 🔐 Integrated **AWS Secrets Manager and Hashicorp Vault** for secrets management, enhancing security posture in multi-environment deployments.
 - 🧰 Built and optimized custom **Docker** images using multi-stage builds for microservice containers.
 - 📈 Set up full-stack observability with **Prometheus**, **Grafana**, **Loki**, and **Alertmanager** for real-time monitoring and alerting.
 - ☁️ Provisioned AWS infrastructure (EC2, S3, Lambda, ECS, ALB) with Terraform, focusing on scalability and cost efficiency.
@@ -98,7 +98,7 @@
 								height="50" >
 						</a>
 						<a href="https://helm.sh/" target="_blank" rel="noreferrer">
-							<img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="50" height="50" >
+							  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="100" height="100" />
 						</a>
 						<a href="https://grafana.com/" target="_blank" rel="noreferrer">
 							<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="jira" width="50"
